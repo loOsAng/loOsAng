@@ -11,11 +11,11 @@ Currently, I am looking for an **AI Product Manager Internship / Technical Produ
 
 ## About Me
 
-- 🎓 BSc Computer Science (Artificial Intelligence), Universiti Malaya
-- 🤖 Interested in AI products, AI agents, data products, and SaaS tools
-- 🧩 Experience in building AI-powered web applications and data analysis tools
-- 🛠 Able to work across product thinking, data analysis, and technical prototyping
-- 🌏 Comfortable reading English technical documents and working in an English-speaking environment
+- BSc Computer Science (Artificial Intelligence), Universiti Malaya
+- Interested in AI products, AI agents, data products, and SaaS tools
+- Experience in building AI-powered web applications and data analysis tools
+- Able to work across product thinking, data analysis, and technical prototyping
+- Comfortable reading English technical documents and working in an English-speaking environment
 
 ---
 
