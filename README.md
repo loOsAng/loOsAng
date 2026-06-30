@@ -74,6 +74,21 @@ A lightweight AI analysis tool that helps merchants understand business data fro
 - Used prompt design to transform structured data into understandable business insights
 - Improved tool stability by handling missing values, invalid inputs, and inconsistent data formats
 
+---
+### AgentOps Lite — LLM Observability & Evaluation Platform
+
+A lightweight dashboard for tracing, evaluating, and improving AI agent workflows.
+
+**Product Focus**
+
+- Designed an AI agent observability workflow from run logging to trace review and evaluation.
+- Built dashboards for run status, latency, token usage, evaluation scores, and failure cases.
+- Added prompt/version tracking and human feedback to support AI product iteration.
+
+**Tech Stack**
+
+React, TypeScript, FastAPI, SQLite/PostgreSQL, Docker
+---
 **Tech Stack**
 
 Python, Streamlit, Pandas, DeepSeek API
